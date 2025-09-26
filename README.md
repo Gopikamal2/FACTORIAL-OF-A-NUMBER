@@ -50,21 +50,22 @@ ACALL FACTORIAL
 THICK: RET
 THIN:RET
 END
-
 ```
 OUTPUT
 
-(Keil output screenshot can be inserted here)
+<img width="1920" height="1080" alt="Screenshot 2025-09-26 180238" src="https://github.com/user-attachments/assets/53edbc62-bf7a-45c6-b5fe-3ecd95ee0ef9" />
 
----
-MANUAL CALCULATIONS
 
----
+
+# MANUAL CALCULATIONS
+``
+![IMG-20250926-WA0081 1](https://github.com/user-attachments/assets/1efa7719-8233-4bc7-9452-c0731974b9f2)
+```
 
 RESULT
 
 Thus, the factorial of a number was calculated and executed successfully using 8051 Keil.
 
----
+
 
 
